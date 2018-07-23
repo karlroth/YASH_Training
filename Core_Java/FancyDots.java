@@ -1,8 +1,31 @@
+/*
+* Program to print patterns of asterisks to the command line.
+*
+* trianlge:
+* 			*
+*			* * 
+* 			* * *
+*			* * * *
+* 
+* valley:
+*			*           *
+*			* *       * *
+*			* * *   * * *
+*			* * * * * * *
+*
+* diamond:
+*                 *
+*               * * *
+*             * * * * *
+*               * * *
+*                 *
+* 
+*/
 class FancyDots {
 	
 	public static void main(String[] args) {
 		
-		triangle("* ", 6);
+		triangle("* ", 4);
 		
 		System.out.println("\n");
 
