@@ -1,0 +1,27 @@
+------Main Menu------
+1. Batch Menu
+2. User Menu
+0. Exit
+*********************
+------Batch Menu-----
+1. Add Batch
+2. List Batch
+3. Update Batch
+4. Delete Batch 
+*********************
+------User Menu------
+1. Register User
+2. Authenticate User
+3. List User
+4. Update User
+5. Delete User
+6. Find User By Property
+*********************
+---User Properties---
+1. First Name
+2. Last Name 
+3. Email
+4. Phone Number
+5. Login Name
+*********************
+

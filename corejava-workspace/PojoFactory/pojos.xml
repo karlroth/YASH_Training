@@ -1,0 +1,5 @@
+<pojos>
+	<pojo id="application" class="com.yash.pojo.Application"></pojo>
+	<pojo id="appService" class="com.yash.service.ApplicationService"></pojo>
+	<pojo id="appCtrl" class="com.yash.controller.ApplicationController"></pojo>
+</pojos>
