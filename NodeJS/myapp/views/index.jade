@@ -1,0 +1,19 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome, #{name}!
+  
+  .main.container
+    button(onclick="login()") Login
+    button(onclick="register()") Register
+
+    script.
+      function login() {
+        window.location.href = '/users/login'
+      }
+
+      function register() {
+        window.location.href = '/users/register'
+      }
+
